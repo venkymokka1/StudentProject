@@ -4,7 +4,11 @@ using System.Text;
 
 namespace StudentProject
 {
-    class Student
+    public class Student
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Venkat Mokka!");
+        }
     }
 }
