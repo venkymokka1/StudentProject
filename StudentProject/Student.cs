@@ -9,7 +9,7 @@ namespace StudentProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Venkat");
-            Console.WriteLine("Hello Abid");
+            int i = 10;
         }
     }
 }
