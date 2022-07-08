@@ -17,6 +17,7 @@ namespace StudentProject
                 Console.WriteLine("Latest commit");
                 Console.WriteLine("Changed this line");
                 Console.WriteLine(i + 1);
+                Console.WriteLine(i + 2);
             }
         }
     }
