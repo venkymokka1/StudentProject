@@ -8,8 +8,10 @@ namespace StudentProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Venkat");
-            int i = 10;
+            for (int i = 0; i < 100; i++)
+            {
+
+            }
         }
     }
 }
