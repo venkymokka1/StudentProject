@@ -8,8 +8,15 @@ namespace StudentProject
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello Venkat");
             Console.WriteLine("Hello Abid Basha");
+
+            for (int i = 0; i < 100; i++)
+            {
+
+            }
+
         }
     }
 }
