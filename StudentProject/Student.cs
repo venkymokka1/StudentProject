@@ -13,7 +13,7 @@ namespace StudentProject
             Console.WriteLine("Hello Abid Basha");
 
             Console.WriteLine("Latest commit");
-
+                Console.WriteLine(i);
         }
     }
 }
