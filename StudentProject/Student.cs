@@ -11,10 +11,12 @@ namespace StudentProject
 
             Console.WriteLine("Hello Venkat");
             Console.WriteLine("Hello Abid Basha");
-
-            	Console.WriteLine("Latest commit");
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine("Latest commit");
                 Console.WriteLine(i);
-				Console.WriteLine(i + 1);
+                Console.WriteLine(i + 1);
+            }
         }
     }
 }
