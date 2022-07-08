@@ -8,6 +8,7 @@ namespace StudentProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Abid Basha & Venkat Mokka!");
             Console.WriteLine("Hello Abid");
         }
     }
