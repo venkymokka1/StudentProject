@@ -15,6 +15,7 @@ namespace StudentProject
             for (int i = 0; i < 100; i++)
             {
                 Console.WriteLine(i);
+                Console.WriteLine(i + 1);
             }
 
         }
