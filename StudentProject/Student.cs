@@ -20,6 +20,7 @@ namespace StudentProject
                 Console.WriteLine("Changed this line");
                 Console.WriteLine(i + 1);
                 Console.WriteLine(i + 2);
+                Console.WriteLine(i + 3);
             }
         }
     }
