@@ -6,8 +6,7 @@ namespace StudentProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Vemky!");
-            Console.WriteLine("New branch!");
+            Console.WriteLine("Hello Vemky! in new branch");
         }
     }
 }
