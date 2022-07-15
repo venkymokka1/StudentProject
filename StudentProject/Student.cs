@@ -9,6 +9,7 @@ namespace StudentProject
         static void Main(string[] args)
         {
             Console.WriteLine("This is from testing branch!");
+            Console.WriteLine("Hellow!");
         }
     }
 }
