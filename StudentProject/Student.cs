@@ -9,6 +9,7 @@ namespace StudentProject
         static void Main(string[] args)
         {
             Console.WriteLine("Helow world!");
+            Console.WriteLine("Hellow world321");
         }
     }
 }
