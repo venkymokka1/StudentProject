@@ -8,7 +8,7 @@ namespace StudentProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("New project");
+            Console.WriteLine("Helow world!");
         }
     }
 }
