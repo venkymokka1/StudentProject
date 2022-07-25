@@ -9,8 +9,8 @@ namespace StudentProject
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello Venkat Mokka");
-            Console.WriteLine("Hello Abid Basha");
+            Console.WriteLine("Hello Mokka Venkat");
+            Console.WriteLine("Hello Basha Abid");
 
             for (int i = 0; i < 100; i++)
             {
@@ -23,3 +23,8 @@ namespace StudentProject
         }
     }
 }
+           
+       
+          
+
+
